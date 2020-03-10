@@ -2,23 +2,19 @@
 <div class="left"></div>
 <div class="stuff">
   <br><br>
-  <h1>RESUME</h1>
-  <h2>Name:</h2>
-  <h3>Peter Charles Dulay Gat-eb</h3>
-  <h4>Age:</h4>
-  <h5>23 years old</h5>
-  <h6>Gender:</h6>
-  <h7>Male</h7>
-  <h8>Address:</h8>
-  <h9>Castro,Sudipen La Union</h9>
-  <h10>Contact Number:</h10>
-  <h11>09123456789</h11>
-  <h12>Email Address:</h12>
-  <h13>pcharlesgateb@gmail.com</h13>
+  <h1>My Resume</h1>
+  <h2>Peter Charles Dulay Gat-eb</h2>
   <hr />
-  <br>
-  <p class="head">INTEREST</p>
+  
+    <p class="head">PERSONAL INFO</p>
   <ul>
+    <li>NAME: PETER CHARLES DULAY GAT-EB</li>
+    <li>AGE:23 YEARS OLD</li>
+    <li>GENDER: MALE</li>
+    <li>CONTACT NUMBER: 0912-345-6789</li>
+    <li>EMAIL ADDRESS:pcharlesgateb@gmail.com</li>
+    <p class="head">INTEREST</p>
+    <ul>
     <li>Drawing</li>
     <li>Design</li>
     <li>Programming</li>
@@ -26,20 +22,19 @@
   <p class="head">SKILLS</p>
   <ul>
     <li>Web Design</li>
-    <li>Photo Editing<li>
   </ul>
-  <p class="head">EDUCATION</p>
+  <p class="head">Education</p>
   <ul>
-      <li>Castro Elementary School</li>
-      <li>DFLOMNHS</li>
+  <li>Castro Sudipen La Union</li>
+  <li>DFLOMNHS</li>
     <a href="http://http://www.uc-bcf.edu.ph/">
-      <li>UNIVERSITY OF THE CORDILLERAS</li>
+      <li>University of The Cordilleras</li>
   </ul>
-  <p class="head">EXPERIENCE</p>
+  <p class="head">Experience</p>
   <ul>
-    <li>Student Intern</li>
+    <li>Student Technology Intern</li>
   </ul>
 </div>
 <div class="right"></div>
 <div id="footer">
-  <h2 id="name">charlx</h2></div>
+  <h2 id="name">Thankyou!</h2></div>
